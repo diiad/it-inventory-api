@@ -1,6 +1,6 @@
-# NTIC Inventory API
+# IT Inventory API
 
-API REST en Go pour la gestion d'un parc informatique : machines, collaborateurs, sites et événements de "soclage" (déploiement/imagerie de poste de travail). Projet réalisé dans le cadre du cursus ESGI (module NTIC).
+API REST en Go pour la gestion d'un parc informatique : machines, collaborateurs, sites et événements de "soclage" (déploiement/imagerie de poste de travail). Side project personnel pour approfondir Go + PostgreSQL.
 
 ## Stack
 
